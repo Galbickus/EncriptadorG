@@ -20,3 +20,7 @@ body {
   .padding-section {
     padding: 2rem;
   }
+
+  .height100 {
+    height: 100%;
+  }
