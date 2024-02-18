@@ -60,6 +60,12 @@ body {
     color: #757882;
   }
 
+  .flex-button {
+    gap: 2rem;
+    padding-top: 2rem;
+    justify-content: space-around;
+  }
+
   button {
     font-size: 1rem;
     border-radius: 3em;
