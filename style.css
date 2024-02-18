@@ -35,3 +35,11 @@ body {
     padding: 3rem 0;
     height: 55%;
   }
+
+  button {
+    font-size: 1rem;
+    border-radius: 3em;
+    padding: 1em 0;
+    width: 80%;
+  }
+
