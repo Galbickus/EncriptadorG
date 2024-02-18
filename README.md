@@ -1,4 +1,5 @@
-# Challenge 1 Programa para encriptar y desencriptar mensajes
+<h1 align="center">Challenge 1 Programa para encriptar y desencriptar mensajes
+
 ## Consigna
 
 ¡Bienvenidas y bienvenidos a nuestro primer desafío!
