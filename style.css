@@ -27,6 +27,10 @@ body {
 
   main {
     margin: 0 auto;
+    padding: 3rem 0;
+    gap: 3rem;
+    height: 90vh;
+    width: 90%;
   }
   textarea {
     width: 90%;
@@ -57,3 +61,4 @@ body {
     color: #000;
     transition: all 1s;
   }
+
