@@ -16,3 +16,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .padding-section {
+    padding: 2rem;
+  }
