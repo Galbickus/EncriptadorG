@@ -94,7 +94,7 @@ Buen proyecto!
 
 ## Tecnologías
 
-<img src=https://img.shields.io/badge/Style-CSS3-blue>  <img src=https://img.shields.io/badge/Structure-HTML5-red>  <img src=https://img.shields.io/badge/Agile-Trello-DodgerBlue>  <img src=https://img.shields.io/badge/Dev-JavaScript-yellow>  <img src=https://img.shields.io/badge/DesingTool-FIGMA-violet> <img src=https://img.shields.io/badge/EditorTool-VSC-8A2BE2>
+<img src=https://img.shields.io/badge/Style-CSS3-blue>  <img src=https://img.shields.io/badge/Structure-HTML5-red>  <img src=https://img.shields.io/badge/Dev-JavaScript-yellow> <img src=https://img.shields.io/badge/EditorTool-VSC-8A2BE2>  <img src=https://img.shields.io/badge/Agile-Trello-DodgerBlue>   <img src=https://img.shields.io/badge/DesingTool-FIGMA-violet>
 
 
  
