@@ -21,3 +21,22 @@ function encrypt() {
       notFound.classList.remove("display-none");
     }
   }
+
+  function decrypt() {
+    if (encryptText.value) {
+      message = encryptText.value
+        .replaceAll("ai", "a")
+        .replaceAll("imes", "i")
+        .replaceAll("enter", "e")
+        .replaceAll("ober", "o")
+        .replaceAll("ufat", "u");
+  
+      copyText.value = message;
+      encryptText.value = "";
+      textFound.classList.remove("display-none");
+      notFound.classList.add("display-none");
+    } else {
+      textFound.classList.add("display-none");
+      notFound.classList.remove("display-none");
+    }
+  }
