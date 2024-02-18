@@ -50,3 +50,10 @@ body {
   .icons i:hover {
     color: blueviolet;
   }
+
+    
+  .icons i {
+    text-shadow: 2px 2px 4px #fff;
+    color: #000;
+    transition: all 1s;
+  }
