@@ -83,4 +83,10 @@ Buen proyecto!
 ## Trello
 ![Trello](https://github.com/Galbickus/EncriptadorG/assets/135274833/a0c15409-1e37-416b-ab5e-18dafe5ed978)
 
+## FIGMA requerimiento de Diseño para Desktop
 
+![FIGMA Consigna DESKTOP](https://github.com/Galbickus/EncriptadorG/assets/135274833/5f475b39-dba7-42b9-ace5-b335b6f05e44)
+
+## FIGMA requerimiento de Diseño para celulares
+
+![FIGMA Consigna CELL](https://github.com/Galbickus/EncriptadorG/assets/135274833/9d2168e2-6be8-4442-a569-1f9bbe5b9da8)
