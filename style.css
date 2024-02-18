@@ -74,6 +74,11 @@ body {
     width: 100%;
   }
 
+  .button-blue {
+    color: #fff;
+    background-color: #042c5d;
+  }
+
   footer {
     font-size: 1.50rem;
     text-align: center;
