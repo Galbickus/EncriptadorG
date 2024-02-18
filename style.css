@@ -47,4 +47,6 @@ body {
     font-size: 1.50rem;
     text-align: center;
   }
-  
+  .icons i:hover {
+    color: blueviolet;
+  }
