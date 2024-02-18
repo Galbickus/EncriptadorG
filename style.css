@@ -1,0 +1,10 @@
+  body {
+    background: rgb(232, 236, 248);
+    background: linear-gradient(
+      0deg,
+      rgba(232, 236, 248, 1) 0%,
+      rgba(232, 236, 248, 1) 100%
+    );
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
