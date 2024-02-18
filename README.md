@@ -89,8 +89,11 @@ Buen proyecto!
 ![FIGMA Consigna DESKTOP](https://github.com/Galbickus/EncriptadorG/assets/135274833/5f475b39-dba7-42b9-ace5-b335b6f05e44)
 
 ## FIGMA requerimiento de Diseño para celulares
+ 
+<p align="center">
+  <img src="https://github.com/Galbickus/EncriptadorG/assets/135274833/9d2168e2-6be8-4442-a569-1f9bbe5b9da8">
+</p>
 
-![FIGMA Consigna CELL](https://github.com/Galbickus/EncriptadorG/assets/135274833/9d2168e2-6be8-4442-a569-1f9bbe5b9da8)
 
 ## Tecnologías
 
