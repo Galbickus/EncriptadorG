@@ -92,4 +92,8 @@ Buen proyecto!
 
 ![FIGMA Consigna CELL](https://github.com/Galbickus/EncriptadorG/assets/135274833/9d2168e2-6be8-4442-a569-1f9bbe5b9da8)
 
+## Tecnologías
+
+<img src=https://img.shields.io/badge/Style-CSS3-blue>  <img src=https://img.shields.io/badge/Structure-HTML5-red> 
+
 
