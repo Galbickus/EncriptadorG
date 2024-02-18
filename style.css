@@ -28,3 +28,10 @@ body {
   main {
     margin: 0 auto;
   }
+  textarea {
+    width: 90%;
+    display: block;
+    margin: 1.5rem auto;
+    padding: 3rem 0;
+    height: 55%;
+  }
