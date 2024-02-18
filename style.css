@@ -37,7 +37,11 @@ body {
     display: block;
     margin: 1.5rem auto;
     padding: 3rem 0;
-    height: 55%;
+    height: 65%;
+    font-size: 1.75rem;
+    background-color: unset;
+    border: none;
+    resize: none;
   }
 
   button {
