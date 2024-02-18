@@ -1,4 +1,8 @@
 html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
     font-family: "Inter", sans-serif;
   }
 
