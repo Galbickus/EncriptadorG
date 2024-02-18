@@ -80,4 +80,7 @@ El Trello es una herramienta de uso individual para que puedas controlar el prog
 
 Buen proyecto!
 
+## Trello
+![Trello](https://github.com/Galbickus/EncriptadorG/assets/135274833/a0c15409-1e37-416b-ab5e-18dafe5ed978)
+
 
