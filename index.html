@@ -3,50 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EncriptaGalbickus | Challenge1</title>
+
+    <!-- Google Fonts -->
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="recet.css">
-    <link rel="stylesheet" href="style-css">
 
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css?v=10022414">
+
+
+    <title>Encriptador Galbickus Challenge1</title>
 </head>
+
 <body>
-    
+
     <header>
+    
         <img class="logo" src="image/Logo.png" alt="Logo Alura">
+        
     </header>
 
+    <main class="cuadricula">
 
-    <main class="cuadricula">    
-        
-        <div class="">
-            <div>
-                <textarea class="entrada" placeholder="Ingrese el texto aquí"></textarea>
+        <div class="flex user padding-section"> 
+            <div class="height100">
+               
+                <textarea class="user-text" name="" id="" placeholder="Ingrese el texto aquí"></textarea>
             </div>
             <div>
-                <button onclick="encriptar()">Encriptar</button>
-                <button onclick="desencriptar()">Desencriptar</button>
+                <label for=""><span class="exclamation">&#33;</span> Solo letras minúsculas y sin acentos</label>
+                <div class="flex flex-button">
+                    <button onclick="encrypt()" class="button-blue">Encriptar</button>
+                    <button onclick="decrypt()" class="button-grey">Desencriptar</button>
+                </div>
             </div>
         </div>
 
-
-        <div class="resultado">
-            <textarea class="" placeholder="resultado" disabled></textarea> 
-            <button onclick="copy()">Copiar</button>
+        <div class="flex translation padding-section">
+            <textarea class="inputCopy" name="" id="" placeholder="Resultado" disabled></textarea>
+            <button onclick="copy()" class="button-grey">Copiar</button>
         </div>
-    
-  
-
-
     </main>
-    
-    <footer>     
+
+    <footer>
+        <p><span by class="bold">Galbickus</span></p>
+        <div class="flex icons">
+            <a target="_blank" rel="noopener"
+                href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><i
+                    class="fa-brands fa-linkedin"></i></a>
+            <a target="_blank" rel="noopener" href="https://github.com/Galbickus"><i
+                    class="fa-brands fa-github"></i></a>
+            <a target="_blank" rel="noopener"
+            href="https://www.youtube.com/@bandacaruso3440"><i 
+                    class="fa-brands fa-youtube"></i>
+
+        </div>
     </footer>
-
-
 
     <script src="app.js"></script>
 </body>
+
 </html>
