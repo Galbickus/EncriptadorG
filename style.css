@@ -32,6 +32,7 @@ body {
     height: 90vh;
     width: 90%;
   }
+
   textarea {
     width: 90%;
     display: block;
@@ -43,6 +44,11 @@ body {
     border: none;
     resize: none;
   }
+
+  textarea:focus {
+    outline: none;
+  }
+
 
   button {
     font-size: 1rem;
