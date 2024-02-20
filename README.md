@@ -95,11 +95,11 @@ Buen proyecto!
 </p>
 
 
-## Tecnologías
+## Skills
 
-<img src=https://img.shields.io/badge/Style-CSS3-blue>  <img src=https://img.shields.io/badge/Structure-HTML5-red>  <img src=https://img.shields.io/badge/Dev-JavaScript-yellow> <img src=https://img.shields.io/badge/EditorTool-VSC-8A2BE2>  <img src=https://img.shields.io/badge/Agile-Trello-DodgerBlue>   <img src=https://img.shields.io/badge/DesingTool-FIGMA-violet>
-
-
- 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+<img src=https://img.shields.io/badge/EditorTool-VSC-8A2BE2>  <img src=https://img.shields.io/badge/Agile-Trello-DodgerBlue>   <img src=https://img.shields.io/badge/DesingTool-FIGMA-violet>
 
 
