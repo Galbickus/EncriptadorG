@@ -22,17 +22,19 @@ body {
     );
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 1vh;
   }
 
  
-  .bold {
+/*  .bold {
     font-weight: bold;
-  }
+  }*/
   
   .flex {
     display: -webkit-flex;
     display: flex;
   }
+
   .cuadricula {
     display: grid;
   }
