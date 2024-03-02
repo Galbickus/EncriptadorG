@@ -34,20 +34,19 @@ body {
     display: grid;
   }
   
-  .exclamation {
+  .advertencia{
     border-radius: 30%;
     color: #e8ecf8;
     padding: 0.35rem 1rem;
     background-color: #757882;
+    font-size: 1.5rem;
+    color: #757882;
   }
 
-  .height100 {
-    height: 90%;
-  }
 
   main {
     margin: 0 auto;
-    padding: 3rem 0;
+    padding: 1rem 0;
     gap: 1rem;      
     height: 85vh;
     width: 90%;

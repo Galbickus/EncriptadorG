@@ -2,7 +2,7 @@
 const encryptText = document.querySelector(".user-text");
 const copyText = document.querySelector(".inputCopy");
 
-// Result Button
+// Boton de resultado
 const textFound = document.querySelector(".text-found");
 const notFound = document.querySelector(".not-found");
 
