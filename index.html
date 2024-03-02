@@ -30,7 +30,7 @@
     <main class="cuadricula">
 
         <div class="flex user padding-section"> 
-            
+
             <div class="height100">
                 <textarea class="user-text" placeholder="Ingrese el texto aquí"></textarea>
             </div>
@@ -38,15 +38,15 @@
             <div>
                 <label for=""><span class="exclamation">&#33;</span> Solo letras minúsculas y sin acentos</label>
                 <div class="flex flex-button">
-                    <button onclick="encrypt()" class="button-blue">Encriptar</button>
-                    <button onclick="decrypt()" class="button-grey">Desencriptar</button>
+                    <button onclick="encriptar()" class="boton-encriptar">Encriptar</button>
+                    <button onclick="desencriptar()" class="desencriptar">Desencriptar</button>
                 </div>
             </div>
         </div>
 
-        <div class="flex translation padding-section">
+        <div class="flex resultado padding-section">
             <textarea class="inputCopy" placeholder="Resultado" disabled></textarea>
-            <button onclick="copy()" class="button-grey">Copiar</button>
+            <button onclick="copiar()" class="boton-copiar">Copiar</button>
         </div>
     </main>
 

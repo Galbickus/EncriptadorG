@@ -6,7 +6,7 @@ const copyText = document.querySelector(".inputCopy");
 const textFound = document.querySelector(".text-found");
 const notFound = document.querySelector(".not-found");
 
-// Message
+// Mensaje
 let message;
 
 document.addEventListener("keyup", () => {
@@ -21,7 +21,7 @@ document.addEventListener("keyup", () => {
   encryptText.value = encryptText.value.toLowerCase();
 });
 
-function encrypt() {
+function encriptar() {
   if (encryptText.value) {
     message = encryptText.value
       .replaceAll("e", "enter")
@@ -40,7 +40,7 @@ function encrypt() {
   }
 }
 
-function decrypt() {
+function desencriptar() {
   if (encryptText.value) {
     message = encryptText.value
       .replaceAll("ai", "a")
@@ -59,54 +59,11 @@ function decrypt() {
   }
 }
 
-function copy() {
+function copiar() {
   copyText.select();
-  copyText.setSelectionRange(0, 99999); // For mobile devices
+  copyText.setSelectionRange(0, 99999); // para moviles
 
-  // Copy the text inside the text field
+  // funcion copiar texto
   navigator.clipboard.writeText(copyText.value);
 }
 
-/*const encryptText = document.querySelector(".user-text");
-const copyText = document.querySelector(".inputCopy");
-let message
-
-
-function encrypt() {
-    if (encryptText.value) {
-      message = encryptText.value
-        .replaceAll("e", "enter")
-        .replaceAll("i", "imes")
-        .replaceAll("a", "ai")
-        .replaceAll("u", "ufat")
-        .replaceAll("o", "ober");
-  
-      copyText.value = message;
-      encryptText.value = "";
-      textFound.classList.remove("display-none");
-      notFound.classList.add("display-none");
-    } else {
-      textFound.classList.add("display-none");
-      notFound.classList.remove("display-none");
-    }
-  }
-
-  function decrypt() {
-    if (encryptText.value) {
-      message = encryptText.value
-        .replaceAll("ai", "a")
-        .replaceAll("imes", "i")
-        .replaceAll("enter", "e")
-        .replaceAll("ober", "o")
-        .replaceAll("ufat", "u");
-  
-      copyText.value = message;
-      encryptText.value = "";
-      textFound.classList.remove("display-none");
-      notFound.classList.add("display-none");
-    } else {
-      textFound.classList.add("display-none");
-      notFound.classList.remove("display-none");
-    }
-  }
-  */
