@@ -4,6 +4,14 @@
 
 https://github.com/Galbickus/EncriptadorG/assets/135274833/630eee8a-d2b4-42d8-bc11-becf5d2d9b7a
 
+## Skills
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+<img src=https://img.shields.io/badge/EditorTool-VSC-8A2BE2>  <img src=https://img.shields.io/badge/Agile-Trello-DodgerBlue>   <img src=https://img.shields.io/badge/DesingTool-FIGMA-violet>
+
+
 ## Consigna
 
 ¡Bienvenidas y bienvenidos a nuestro primer desafío!
@@ -86,7 +94,9 @@ El Trello es una herramienta de uso individual para que puedas controlar el prog
 Buen proyecto!
 
 ## Trello
-![Trello](https://github.com/Galbickus/EncriptadorG/assets/135274833/a0c15409-1e37-416b-ab5e-18dafe5ed978)
+
+![Trello](https://github.com/Galbickus/EncriptadorG/assets/135274833/34df474d-85eb-4259-8c74-15ee7d1ca511)
+
 
 ## FIGMA requerimiento de Diseño para Desktop
 
@@ -98,12 +108,15 @@ Buen proyecto!
   <img src="https://github.com/Galbickus/EncriptadorG/assets/135274833/9d2168e2-6be8-4442-a569-1f9bbe5b9da8">
 </p>
 
+## Entrega
 
-## Skills
+<p align="center">
+  <img src="https://github.com/Galbickus/EncriptadorG/assets/135274833/c1283013-d021-4fd1-a6ed-9fe3961646cd">
+</p>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-<img src=https://img.shields.io/badge/EditorTool-VSC-8A2BE2>  <img src=https://img.shields.io/badge/Agile-Trello-DodgerBlue>   <img src=https://img.shields.io/badge/DesingTool-FIGMA-violet>
+## Insignia
 
+<p align="center">
+  <img src="https://github.com/Galbickus/EncriptadorG/assets/135274833/44ce0a56-4979-4845-a721-dd6b7f2b232f">
+</p>
 
