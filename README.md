@@ -120,3 +120,6 @@ Buen proyecto!
   <img src="https://github.com/Galbickus/EncriptadorG/assets/135274833/44ce0a56-4979-4845-a721-dd6b7f2b232f">
 </p>
 
+## Mensaje secreto de Alura en Trello
+
+![mensaje_secreto_de_Alura_en_Trello](https://github.com/Galbickus/EncriptadorG/assets/135274833/20b6b695-40dc-48fa-965f-1bd8d5b2cd4d)
